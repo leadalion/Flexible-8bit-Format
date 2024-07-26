@@ -1,0 +1,8 @@
+torch==1.8.0
+torchvision==0.9.0
+mmcv-full==1.7.1
+mmdet==2.26.0
+mmseg==0.29.1
+mmcls==0.25.0
+openmim==0.3.4
+transfomers==4.31.0
